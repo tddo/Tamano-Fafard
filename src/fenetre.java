@@ -420,7 +420,7 @@ public class fenetre {
 			DOTD.afficherMsgBox("Bravo! Vous avez gagné!! Merci d'avoir joué!!");
 			System.exit(0);
 		}else if(monJeuTamagotchi.sontMorts()){
-			DOTD.afficherMsgBox("Ayoye! Vous avez perdu... Merci d'avoir joué!!");
+			DOTD.afficherMsgBox("Ayoye! Vous avez perdu... Bon ben.. merci d'avoir joué!!");
 			System.exit(0);
 		}
 	}

@@ -12,7 +12,6 @@ public class DOTD {
 	}
 	
 	public static String afficherCbBox(String strTitre, String strMessage, String[] tab, int index){
-
 		return((String) JOptionPane.showInputDialog(new JFrame(), 
 				strMessage, strTitre, 
 				JOptionPane.QUESTION_MESSAGE, 
